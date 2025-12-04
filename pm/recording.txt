@@ -1,0 +1,4 @@
+Registro de Actividades:
+- Código documentado.
+- Pruebas aplicadas.
+- Documentos generados.
