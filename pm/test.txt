@@ -1,0 +1,4 @@
+Registro de Pruebas:
+1) Gamma(5) con 1000 segmentos → Correcto
+2) Segmentos impares → Error controlado
+3) Input incompleto → Excepción correcta

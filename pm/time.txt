@@ -1,0 +1,5 @@
+Registro de Tiempo:
+Análisis: 45m
+Documentación: 70m
+Pruebas: 30m
+Ajustes: 20m
